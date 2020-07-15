@@ -1,0 +1,64 @@
+@-moz-document url("http://****************:8112/") {
+.x-panel-body {
+    border-color: #d0d0d0;
+    border-top-color: rgb(208, 208, 208);
+    background-color: #111;
+    /*color: #fff;*/
+    color: #5f5;
+}
+.x-tree-node {
+
+    color: #5f5;
+    font: normal 11px arial, tahoma, helvetica, sans-serif;
+    line-height: normal;
+}
+
+.x-tree-node a span,
+.x-dd-drag-ghost a span {
+    color: #5f5;
+}
+
+.x-grid3 {
+
+    background-color: #111;
+}
+
+.x-grid3-row {
+    border-color: #8206d5;
+    border-top-color: #8206d5;
+    background-color: #666;
+}
+.x-grid3-row-selected {
+    background-color: #CC88CC !important;
+    background-image: none;
+    border-color: #ACACAC;
+}
+
+.x-panel-noborder .x-panel-tbar-noborder .x-toolbar {
+    border-bottom-color: #000;
+}
+.x-panel-tbar-noheader .x-toolbar,
+.x-panel-mc .x-panel-tbar .x-toolbar {
+    border-top-color: #000;
+}
+.x-toolbar {
+
+    border-color: #d0d0d0;
+    background-color: #CC88CC;
+    background-image: none;
+}
+ul.x-tab-strip-top {
+    background-color: #CC88CC;
+    background-image: none;
+    border-bottom-color: #444;
+}
+.x-grid3-header {
+
+    background-color: #8206d5;
+    background-image: none;
+}
+.x-treegrid-root-table,
+.x-treegrid-col {
+    border-color: #c9c;
+}
+}
